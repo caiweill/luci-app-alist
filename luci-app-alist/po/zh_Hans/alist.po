@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Alist"
-msgstr "Alist 文件列表"
+msgstr "聚合网盘"
 
 msgid "Open Web Interface"
 msgstr "打开 Web 界面"
@@ -70,9 +70,6 @@ msgstr "未运行"
 
 msgid "Collecting data..."
 msgstr "收集数据..."
-
-msgid "NAS"
-msgstr "网络存储"
 
 msgid "User Manual"
 msgstr "用户手册"
